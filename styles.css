@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header {
+    background-color: #A8D080; /* Light green from the logo */
+    color: white;
+    padding: 40px 20px;
+}
+
+main {
+    padding: 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+footer {
+    background-color: #A8D080; /* Light green from the logo */
+    color: white;
+    padding: 5px 0; /* Reduce height */
+    position: relative; /* Move to end of webpage */
+    width: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.logo {
+    max-width: 100px;
+    height: auto;
+}
+
+.home-link {
+    display: inline-block;
+    padding: 10px 20px;
+    color: white;
+    text-decoration: none;
+}
+
+
+nav {
+    background-color: #299451; /* Light green from the logo */
+}
